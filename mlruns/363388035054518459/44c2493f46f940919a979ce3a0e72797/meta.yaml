@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bhava/symptom-triage/mlruns/363388035054518459/44c2493f46f940919a979ce3a0e72797/artifacts
+end_time: 1781017409377
+entry_point_name: ''
+experiment_id: '363388035054518459'
+lifecycle_stage: active
+run_id: 44c2493f46f940919a979ce3a0e72797
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781017407632
+status: 3
+tags: []
+user_id: bhava

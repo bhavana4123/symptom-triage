@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bhava/symptom-triage/mlruns/363388035054518459/9ef86324632346b5835c184d8eaea534/artifacts
+end_time: 1781017407628
+entry_point_name: ''
+experiment_id: '363388035054518459'
+lifecycle_stage: active
+run_id: 9ef86324632346b5835c184d8eaea534
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781017405907
+status: 3
+tags: []
+user_id: bhava

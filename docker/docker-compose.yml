@@ -1,0 +1,2 @@
+# Canonical docker-compose.yml lives at the project root.
+# Run from the project root: docker compose up --build

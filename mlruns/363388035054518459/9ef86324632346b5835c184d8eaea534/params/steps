@@ -1,0 +1,7 @@
+[('preprocessor', ColumnTransformer(transformers=[('tfidf',
+                                 TfidfVectorizer(max_features=5000,
+                                                 ngram_range=(1, 2),
+                                                 sublinear_tf=True),
+                                 'symptom_text'),
+                                ('num', StandardScaler(),
+                                 ['Age', 'symptom_count', 'Gender'])])), ('clf', RandomForestClassifier(class_weight='balanced', n_jobs=-1, random_state=42))]

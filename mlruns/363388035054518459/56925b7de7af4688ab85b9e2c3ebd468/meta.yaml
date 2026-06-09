@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bhava/symptom-triage/mlruns/363388035054518459/56925b7de7af4688ab85b9e2c3ebd468/artifacts
+end_time: 1781017409219
+entry_point_name: ''
+experiment_id: '363388035054518459'
+lifecycle_stage: active
+run_id: 56925b7de7af4688ab85b9e2c3ebd468
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781017408655
+status: 3
+tags: []
+user_id: bhava

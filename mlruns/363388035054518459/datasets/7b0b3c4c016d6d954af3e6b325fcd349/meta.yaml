@@ -1,0 +1,15 @@
+digest: 6ad4989a
+name: dataset
+profile: '{"num_rows": 52, "num_elements": 624}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Disease", "required": true},
+  {"type": "long", "name": "Fever", "required": true}, {"type": "long", "name": "Cough",
+  "required": true}, {"type": "long", "name": "Fatigue", "required": true}, {"type":
+  "long", "name": "Difficulty Breathing", "required": true}, {"type": "long", "name":
+  "Age", "required": true}, {"type": "long", "name": "Gender", "required": true},
+  {"type": "string", "name": "Blood Pressure", "required": true}, {"type": "string",
+  "name": "Cholesterol Level", "required": true}, {"type": "string", "name": "Outcome
+  Variable", "required": true}, {"type": "string", "name": "symptom_text", "required":
+  true}, {"type": "long", "name": "symptom_count", "required": true}]}'
+source: '{"tags": {"mlflow.user": "bhava", "mlflow.source.name": "ml/train.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

@@ -1,0 +1,7 @@
+[('preprocessor', ColumnTransformer(transformers=[('tfidf',
+                                 TfidfVectorizer(max_features=5000,
+                                                 ngram_range=(1, 2),
+                                                 sublinear_tf=True),
+                                 'symptom_text'),
+                                ('num', StandardScaler(),
+                                 ['Age', 'symptom_count', 'Gender'])])), ('clf', LogisticRegression(class_weight='balanced', max_iter=500, random_state=42))]

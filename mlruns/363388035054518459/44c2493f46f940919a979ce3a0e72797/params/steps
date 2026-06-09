@@ -1,0 +1,7 @@
+[('preprocessor', ColumnTransformer(transformers=[('tfidf',
+                                 TfidfVectorizer(max_features=5000,
+                                                 ngram_range=(1, 2),
+                                                 sublinear_tf=True),
+                                 'symptom_text'),
+                                ('num', StandardScaler(),
+                                 ['Age', 'symptom_count', 'Gender'])])), ('clf', GradientBoostingClassifier(max_depth=5, random_state=42))]
