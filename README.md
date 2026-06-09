@@ -224,13 +224,6 @@ Returns the last 20 triage results from SQLite, newest first.
 
 ---
 
-## Screenshots
-
-> _Add screenshots here once the UI is running._
-
-| Form | Result — Urgent | Result — Emergency |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
 
 ---
 
