@@ -157,21 +157,6 @@ Stop and remove containers:
 docker compose down
 ```
 
-### Environment variables
-
-Copy `.env.example` to `.env` and fill in values before running:
-
-```bash
-cp .env.example .env
-```
-
-| Variable | Description |
-|---|---|
-| `ANTHROPIC_API_KEY` | Claude API key (optional — only needed for the `/api/v1/triage` Claude path) |
-| `DATABASE_URL` | SQLite path, e.g. `sqlite:///./symptom_triage.db` |
-| `MODEL_PATH` | Override path to `best_model.pkl` |
-
----
 
 ## API Reference
 
